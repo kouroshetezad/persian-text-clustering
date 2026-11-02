@@ -40,5 +40,5 @@ The dataset (`golestan.csv`) is expected in the working directory.
 ## Run
 
 ```bash
-python "project 5.py"
+python persian-text-clustering.py
 ```
